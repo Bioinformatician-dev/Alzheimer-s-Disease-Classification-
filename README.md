@@ -25,13 +25,14 @@ Alternatively, manually install the required libraries:
  pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost
 ```
 ## 📂 File Structure
+
 ```bash
 📂 Alzheimers-Disease-Classification
-│-- 📄 Alzheimer's_Disease_Classification_.ipynb     # Main script for training models with output
-│-- 📄 Dataset.py                                    # download dataset
+│-- 📄 Alzheimer's_Disease_Classification_.ipynb     # Main notebook for training models with results
+│-- 📄 Dataset.py                                    # Script to download dataset
 │-- 📄 README.md                                     # Project documentation
-│-- 📄 alzheimer's_disease_classification.py         # Main script
-│--   requirements.txt                               # Dependencies
+│-- 📄 alzheimer's_disease_classification.py         # Main script for model training & evaluation
+│-- 📄 requirements.txt                              # Dependencies
 ```
 
 
