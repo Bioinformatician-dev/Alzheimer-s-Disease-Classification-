@@ -31,7 +31,7 @@ Alternatively, manually install the required libraries:
 │-- 📄 Dataset.py                    # download dataset
 │-- 📄 requirements.txt               # Dependencies
 │-- 📄 README.md                      # Project documentation
-│--   Alzheimer's Disease Classification.pdf  # script & its output         
+│--   Alzheimer's_Disease_Classification.pdf         
 ```
 
 
