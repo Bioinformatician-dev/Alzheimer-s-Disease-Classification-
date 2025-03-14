@@ -19,3 +19,40 @@ Ensure you have **Python 3.8+** installed. Install dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+Alternatively, manually install the required libraries:
+
+```bash
+ pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost
+```
+## 📂 File Structure
+📂 Alzheimers-Disease-Classification
+│-- 📄 alzheimers_classification.py   # Main script for training models
+│-- 📄 Dataset.py                    # download dataset
+│-- 📄 requirements.txt               # Dependencies
+│-- 📄 README.md                      # Project documentation
+│--   Alzheimer's Disease Classification.pdf #script & its output         
+
+
+
+## Usage
+Run the script:
+
+```bash
+python alzheimers_classification.py
+```
+
+## Models Used
+
+* Decision Tree
+* Random Forest
+* Logistic Regression
+* K-Nearest Neighbors
+* Support Vector Machine
+* XGBoost
+* CatBoost
+
+## Results
+The best-performing model is displayed along with accuracy comparisons.
+
+
+
