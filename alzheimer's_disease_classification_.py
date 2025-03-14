@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore")
 
 """**Reading and Understanding our Data**"""
 
-df = pd.read_csv('/content/alzheimers-disease-dataset/alzheimers_disease_data.csv')
+df = pd.read_csv('../alzheimers-disease-dataset/alzheimers_disease_data.csv')
 
 df.head()
 
