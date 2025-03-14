@@ -27,11 +27,11 @@ Alternatively, manually install the required libraries:
 ## 📂 File Structure
 ```bash
 📂 Alzheimers-Disease-Classification
-│-- 📄 alzheimers_classification.py   # Main script for training models
-│-- 📄 Dataset.py                    # download dataset
-│-- 📄 requirements.txt               # Dependencies
-│-- 📄 README.md                      # Project documentation
-│--   Alzheimer's_Disease_Classification.pdf         
+│-- 📄 Alzheimer's_Disease_Classification_.ipynb     # Main script for training models with output
+│-- 📄 Dataset.py                                    # download dataset
+│-- 📄 README.md                                     # Project documentation
+│-- 📄 alzheimer's_disease_classification.py         # Main script
+│--   requirements.txt                               # Dependencies
 ```
 
 
