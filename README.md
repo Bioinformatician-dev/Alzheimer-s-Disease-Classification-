@@ -1,4 +1,4 @@
-koi
+
 # Alzheimer's Disease Classification
 
 This repository contains machine learning models for classifying Alzheimer's disease using various supervised learning techniques. The dataset is preprocessed, analyzed, and evaluated using multiple classifiers.
